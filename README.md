@@ -96,4 +96,6 @@ Vos retours, contributions et critiques sont toujours les bienvenus.
   <i>Réalisé avec ❤️ par Xyoss</i>
 </p>
 
-# *Build. Learn. Create.* 
+<p align="center">
+  <i> # *Build. Learn. Create.* </i>
+</p>
