@@ -78,18 +78,6 @@ Je cherche principalement à progresser dans :
 
 ---
 
-### - 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZONE-TETH&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZONE-TETH&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Support
 
 💙 Si vous appréciez mes projets, n'hésitez pas à leur laisser une **⭐** !
