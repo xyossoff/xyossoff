@@ -82,15 +82,13 @@ Je cherche principalement à progresser dans :
 
 💙 Si vous appréciez mes projets, n'hésitez pas à leur laisser une **⭐** !
 
-Vos retours et contributions sont toujours les bienvenus.
+Vos retours, contributions et critiques sont toujours les bienvenus.
 
 ---
 
 ### 📫 Me contacter
 
 💬 **Discord :** `Xyoss`
-
-🐙 **GitHub :** [ZONE-TETH](https://github.com/ZONE-TETH)
 
 ---
 
