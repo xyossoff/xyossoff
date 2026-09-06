@@ -55,9 +55,7 @@ Je travaille sur différents projets personnels afin d'expérimenter de nouvelle
 
 **Quelques domaines qui m'intéressent particulièrement :**
 
-> 💻 Programmation
 > 🌐 Développement Web
-> 🎮 Jeu vidéo & Modding
 > 🎨 UI / UX & Design
 > 🧊 3D & Création numérique
 > ⚙️ Automatisation & Scripting
@@ -71,7 +69,6 @@ Je travaille sur différents projets personnels afin d'expérimenter de nouvelle
 Je cherche principalement à progresser dans :
 
 * 🧠 La logique et l'architecture de projets
-* 💻 La programmation
 * 🌐 Le développement web
 * 🔄 La communication entre systèmes
 * 🗄️ Les bases de données
