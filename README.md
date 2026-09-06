@@ -42,7 +42,6 @@
 | **Développement Web**   | Interfaces et projets web en cours d'apprentissage                         |
 | **UI / UX**             | Conception d'interfaces et expérience utilisateur |
 | **Jeu vidéo & Modding** | Projets et systèmes autour du jeu vidéo           |
-| **Scripting**           | Automatisation et création de systèmes            |
 | **3D**                  | Modélisation et création d'assets                 |
 | **Bases de données**   | Gestion et stockage de données                    |
 | **Open Source**         | Expérimentation et partage de projets             |
