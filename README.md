@@ -22,14 +22,14 @@
 ### - 💻 Langages & Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50" height="50" alt="Lua"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" alt="Blender"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="30" height="30" alt="Lua"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="30" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="30" height="30" alt="Blender"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@
 | Domaine                    |                                                   |
 | -------------------------- | ------------------------------------------------- |
 | 💻 **Programmation**       | Scripts, systèmes et projets personnalisés        |
-| 🌐 **Développement Web**   | Interfaces et projets web                         |
+| 🌐 **Développement Web**   | Interfaces et projets web                         | -- en cours d'apprentissage
 | 🎨 **UI / UX**             | Conception d'interfaces et expérience utilisateur |
 | 🎮 **Jeu vidéo & Modding** | Projets et systèmes autour du jeu vidéo           |
 | 🧩 **Scripting**           | Automatisation et création de systèmes            |
