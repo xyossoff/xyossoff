@@ -6,16 +6,16 @@
 
 ---
 
-* 🎓 Actuellement en **Bac Pro CIEL**, je développe continuellement mes compétences dans le domaine de l'informatique.
-* 💻 Je m'intéresse principalement à la **programmation et au développement web**.
-* 🌱 J'apprends constamment de nouvelles technologies et j'aime comprendre comment les choses fonctionnent.
-* 🧠 J'aime particulièrement résoudre des problèmes et transformer des idées en projets concrets.
-* 🎨 La **création graphique, la 3D et l'UI/UX** font également partie de mes centres d'intérêt.
-* 🎮 Je développe différents projets personnels autour du **jeu vidéo et du modding**.
-* 🛠️ Je travaille aussi bien sur de petits projets que sur des systèmes plus complexes.
-* 📚 Je considère chaque projet comme une occasion d'apprendre et de progresser.
-* 👨‍💻 Une partie de mes projets et expérimentations est disponible sur mon [GitHub](https://github.com/ZONE-TETH).
-* 💬 Toujours partant pour découvrir de nouvelles technologies et échanger autour du développement !
+*  Actuellement en **Bac Pro CIEL**, je développe continuellement mes compétences dans le domaine de l'informatique.
+*  Je m'intéresse principalement à la **programmation et au développement web**.
+*  J'apprends constamment de nouvelles technologies et j'aime comprendre comment les choses fonctionnent.
+*  J'aime particulièrement résoudre des problèmes et transformer des idées en projets concrets.
+*  La **création graphique, la 3D et l'UI/UX** font également partie de mes centres d'intérêt.
+*  Je développe différents projets personnels autour du **jeu vidéo et du modding**.
+*  Je travaille aussi bien sur de petits projets que sur des systèmes plus complexes.
+*  Je considère chaque projet comme une occasion d'apprendre et de progresser.
+*  Une partie de mes projets et expérimentations est disponible sur mon [GitHub](https://github.com/ZONE-TETH).
+*  Toujours partant pour découvrir de nouvelles technologies et échanger autour du développement !
 
 ---
 
