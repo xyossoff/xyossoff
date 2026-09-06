@@ -39,7 +39,7 @@
 | Domaine                    |                                                   |
 | -------------------------- | ------------------------------------------------- |
 | 💻 **Programmation**       | Scripts, systèmes et projets personnalisés        |
-| 🌐 **Développement Web**   | Interfaces et projets web                         | -- en cours d'apprentissage
+| 🌐 **Développement Web**   | Interfaces et projets web en cours d'apprentissage                         |
 | 🎨 **UI / UX**             | Conception d'interfaces et expérience utilisateur |
 | 🎮 **Jeu vidéo & Modding** | Projets et systèmes autour du jeu vidéo           |
 | 🧩 **Scripting**           | Automatisation et création de systèmes            |
