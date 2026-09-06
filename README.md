@@ -1,8 +1,8 @@
 # Bonjour, je suis [Xyoss](https://github.com/ZONE-TETH) 👋
 
-### 🙎 Xyoss | 💻 Développeur | 🎨 Créatif | 🇫🇷 France
+### Xyoss | Développeur | Créatif | 🇫🇷 France
 
-> ⚡️ Passionné par l'informatique, le développement et la création de projets qui combinent technique et créativité.
+> Passionné par l'informatique, le développement et la création de projets qui combinent technique et créativité.
 
 ---
 
@@ -38,55 +38,55 @@
 
 | Domaine                    |                                                   |
 | -------------------------- | ------------------------------------------------- |
-| 💻 **Programmation**       | Scripts, systèmes et projets personnalisés        |
-| 🌐 **Développement Web**   | Interfaces et projets web en cours d'apprentissage                         |
-| 🎨 **UI / UX**             | Conception d'interfaces et expérience utilisateur |
-| 🎮 **Jeu vidéo & Modding** | Projets et systèmes autour du jeu vidéo           |
-| 🧩 **Scripting**           | Automatisation et création de systèmes            |
-| 🧊 **3D**                  | Modélisation et création d'assets                 |
-| 🗄️ **Bases de données**   | Gestion et stockage de données                    |
-| 🔧 **Open Source**         | Expérimentation et partage de projets             |
+| **Programmation**       | Scripts, systèmes et projets personnalisés        |
+| **Développement Web**   | Interfaces et projets web en cours d'apprentissage                         |
+| **UI / UX**             | Conception d'interfaces et expérience utilisateur |
+| **Jeu vidéo & Modding** | Projets et systèmes autour du jeu vidéo           |
+| **Scripting**           | Automatisation et création de systèmes            |
+| **3D**                  | Modélisation et création d'assets                 |
+| **Bases de données**   | Gestion et stockage de données                    |
+| **Open Source**         | Expérimentation et partage de projets             |
 
 ---
 
-### - 🚀 Mes projets
+### - Mes projets
 
 Je travaille sur différents projets personnels afin d'expérimenter de nouvelles technologies et d'améliorer mes compétences.
 
 **Quelques domaines qui m'intéressent particulièrement :**
 
-> 🌐 Développement Web
-> 🎨 UI / UX & Design
-> 🧊 3D & Création numérique
-> ⚙️ Automatisation & Scripting
-> 🧠 Logique & Architecture
-> 🔧 Open Source
+> Développement Web
+> UI / UX & Design
+> 3D & Création numérique
+> Automatisation & Scripting
+> Logique & Architecture
+> Open Source
 
 ---
 
-### - 🌱 Actuellement
+### - Actuellement
 
 Je cherche principalement à progresser dans :
 
-* 🧠 La logique et l'architecture de projets
-* 🌐 Le développement web
-* 🔄 La communication entre systèmes
-* 🗄️ Les bases de données
-* 🎨 L'UI / UX
-* ⚡ L'optimisation et la qualité du code
-* 🔐 Les bonnes pratiques de développement
+* La logique et l'architecture de projets
+* Le développement web
+* La communication entre systèmes
+* Les bases de données
+* L'UI / UX
+* L'optimisation et la qualité du code
+* Les bonnes pratiques de développement
 
 ---
 
-## 🤝 Support
+## Support
 
-💙 Si vous appréciez mes projets, n'hésitez pas à leur laisser une **⭐** !
+Si vous appréciez mes projets, n'hésitez pas à leur laisser une !
 
 Vos retours, contributions et critiques sont toujours les bienvenus.
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 
 💬 **Discord :** `Xyoss`
 
@@ -96,4 +96,4 @@ Vos retours, contributions et critiques sont toujours les bienvenus.
   <i>Réalisé avec ❤️ par Xyoss</i>
 </p>
 
-# ⚡️ *Build. Learn. Create.* ⚡️
+# *Build. Learn. Create.* 
